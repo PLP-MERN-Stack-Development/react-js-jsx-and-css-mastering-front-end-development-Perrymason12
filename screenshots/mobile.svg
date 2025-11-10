@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="780" viewBox="0 0 360 780">
+  <rect width="360" height="780" rx="24" fill="#F3F4F6" />
+  <rect x="18" y="28" width="324" height="60" rx="10" fill="#111827" />
+  <text x="36" y="66" font-family="Arial" font-size="16" fill="#FFFFFF">PLP Task Manager — Mobile (placeholder)</text>
+  <g transform="translate(36,110)">
+    <rect width="288" height="56" rx="10" fill="#FFFFFF" stroke="#E5E7EB" />
+    <text x="12" y="36" font-family="Arial" font-size="14" fill="#6B7280">Add a new task...</text>
+  </g>
+  <g transform="translate(36,186)">
+    <rect width="288" height="96" rx="10" fill="#FFFFFF" stroke="#E5E7EB" />
+    <text x="12" y="32" font-family="Arial" font-size="14" fill="#111827">• Buy groceries</text>
+    <text x="12" y="56" font-family="Arial" font-size="14" fill="#111827">• Walk the dog</text>
+  </g>
+  <text x="36" y="740" font-family="Arial" font-size="11" fill="#6B7280">Replace with a real mobile screenshot at screenshots/mobile.png</text>
+</svg>
